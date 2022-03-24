@@ -2,4 +2,5 @@
 
 * Dr Doom
 * REd Skill
-*Dr Herrera
+* Dr Herrera
+* Nick Fury
