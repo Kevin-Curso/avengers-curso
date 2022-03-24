@@ -2,4 +2,4 @@
 
 * Dr Doom
 * REd Skill
-*Dr Herrera
+* Capitan Maerica
